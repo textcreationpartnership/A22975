@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte concernyng the citee of Chester, for weares in the riuer of Dee the xxv. chapiter.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1551</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22975</idno>
+            <idno type="STC">STC 9432.7</idno>
+            <idno type="STC">ESTC S1973</idno>
+            <idno type="EEBO-CITATION">22950521</idno>
+            <idno type="OCLC">ocm 22950521</idno>
+            <idno type="VID">25961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1793:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte concernyng the citee of Chester, for weares in the riuer of Dee the xxv. chapiter.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Sovereign (1547-1553 : Edward VI)</author>
+               </titleStmt>
+               <extent>fol. xxxiii-xxxv.   </extent>
+               <publicationStmt>
+                  <publisher>Richardus Graftonus, typographus regius excudebat,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>mense Martio A. M. D. XLIX [Mar. 1549]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Eduardi VI.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: a⁴ (last leaf blank).</note>
+                  <note>Pages numbered on recto only.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dee, River (Wales and England) --  History.</term>
+               <term>Chester (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:25961:1"/>
+            <pb n="xxxiii" facs="tcp:25961:1"/>
+            <head>EDVARDI. VI.</head>
+            <head>¶ An Acte, concernyng the citee of Cheſter, for weares in the riuer of Dee.</head>
+            <head type="sub">¶ The .xxv. Chapiter.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N moſte humble wiſe, ſheweth vnto your royall maieſtie, your true faithful and obedient ſubiectes the Maior, Al<g ref="char:EOLhyphen"/>detmen, Sherifes, Commonaltie, and Inhabitantes of your graces citee of Cheſter: that where theſaid citee, is one of the auncienteſt Citees within your realme, whereby the tounes and con<g ref="char:EOLhyphen"/>trees adioynyng, haue heretofore had greate relief, commoditie, and profite, and is the chief keye &amp; defence in thoſe partes, to furniſh and ſerue your grace in all your affaires, and weightie buſi<g ref="char:EOLhyphen"/>neſſe, into your realme of Irelande and Scotlande, and hath no other aide or helpe; whereby theſaied citee is chiefly mainteined, but by the ri<g ref="char:EOLhyphen"/>uer of Dee, runnyng and commyng to theſaid citee, and the hauen there very ſhalowe and daungerous for all ſhippes and veſſelles, to repaire and come vnto theſaied citee, ſo that aſwell the inhabitantes of theſame, as alſo ſtraungers at this daie, with their wares and merchaundiſes do not reade or haue recourſe there, as thei heretofore wer accuſtomed to do, to the greate detriment of theſame. And foraſmuche as diuerſe perſones hauyng landes adioynyng to theſame riuer of Dee, for their priuate lu<g ref="char:EOLhyphen"/>cre and commoditie, not regardyng the common weale of the whole cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>treis and citizeins, haue heretofore made, reared, and cauſed to bee fixed and ſet vp, in, and cleane ouer theſaied riuer of Dee, ſondrie weares, go<g ref="char:EOLhyphen"/>res; greate hedges, piles, gates, fiſhe gates, nettes, and other ingines, for takyng of fiſhe within theſaied riuer, and ſtill do preſerue, kepe, &amp; main<g ref="char:EOLhyphen"/>tein theſame: By reaſon whereof, the merchauntes, and other enhabitan<g ref="char:EOLhyphen"/>tes of theſaied citee, cannot haue recourſe, ne liberall and direct paſſage, in, and vpon theſaied riuer, with their Cogges, Kielles, Boates, fleutes, of buildyng timber, fewell, and other timber for makyng of ſhippes, and veſſelles for the conueighyng and bryngyng of theſame and other their wares and merchaundizes by water, in, to, and from the maine lande or countrey, neither alſo the inhabitantes of the countrey there, can conue<g ref="char:EOLhyphen"/>niently haue any paſſage to conueigh, come, or bryng by water, vp, or doune, to, or from theſaied citee, any fewell, timber, corne, or other thyng neceſſary to ſerue theſaied citee, but onely by lande, by the whiche their trauell and recourſe, by lande to the markettes, faires, and all other ty<g ref="char:EOLhyphen"/>mes, the high waies and lanes, are not onely ſo foule and deape, that no perſone in the winter tyme, can eaſely eſcape the anoyance and daungier
+<pb facs="tcp:25961:2"/>thereof, to come to theſaied citee, to bryng, victuall, wares, and merchau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dizes, whiche cauſeth greate ſcarcitie, want and dearth thereof: but alſo the broode and frie of Salmon, and other fiſhe in theſaied riuer, is, and be commonly thereby deſtroyed, whiche ſaied inconueniences, incommo<g ref="char:EOLhyphen"/>dities and other enormities, as heretofore haue been expreſſed, is, &amp; hath been, by reaſon theſaied citee, beyng parcell of the Countie Palentine of Cheſter, hath been alwaies exempted, excluded, and ſeparated from your high court of Parliament, to haue any Burgeſes for theſaid citee with<g ref="char:EOLhyphen"/>in this honourable Courte, till now of late, at the Parliament holden at Weſtminſter, in the .xxxij. yere of the reigne of your late father of moſte famous memory kyng Henry the eight. By reaſon wherof theſaied citee and inhabitauntes, haue hetherto ſuſteined manifold diſheriſons, loſſes and daungers, and this theſaied citee is like to be vtterly empoueriſhed go to decaye, and vtter ruyne and deſtruccion, onleſſe ſpedy remedy bee in that behalfe ſhortly had and prouided. And for that euery citee of En<g ref="char:EOLhyphen"/>glande, hath the commoditie of the riuers and greate waters, commyng to their citees, to haue free paſſage, to tranſport, conueigh, and bryng vp and doune, at their pleaſure and libertie, all wares and other thynges, behouefull and neceſſary for theim: but onely your graces citee of Che<g ref="char:EOLhyphen"/>ſter. For redreſſe and reformacion whereof, pleaſeth it your moſte royall maieſtie, that it maie be enacted by your ſaied maieſtie, with the aſſent of the lordes ſpirituall and Temporall, and the Commons in this preſent Parliament aſſembled, and by the aucthoritie of theſame, that all and e<g ref="char:EOLhyphen"/>uery maner of perſones, of what eſtate, degree, or condicion, ſoeuer he or thei be, that heretofore haue reared, fixed and ſet, or hereafter ſhall reate, fixe or ſet, in, or ouer theſaied riuer or water of Dee, any weares, gores, floudgates, hedges, fiſhe gates, piles, ſtakes, nettes or other, engine, fro<g ref="char:cmbAbbrStroke">̄</g> your graces Fullyng milles, vpon theſaied riuer of Dee at Cheſter, vp<g ref="char:EOLhyphen"/>ward theſaied riuer of Dee, vnto your toune of Corwyn, in your coun<g ref="char:EOLhyphen"/>tie of Merioneth, ſhall afore the firſt daie of Aprill nexte commyng, and at all tymes after theſaied firſt daie of Aprill, leaue and permit, and ſuf<g ref="char:EOLhyphen"/>fre to bee made and lefte, the third parte of theſaied ſtreame or water of Dee, for a free paſſage, in, and vpon theſaid water of Dee, for all maner of flotes of wodde, bordes, timber, boates, barges, cogges and kieles, la<g ref="char:EOLhyphen"/>den and vnladen, and al other cariage, to paſſe and repaſſe, vpon theſaid riuer, in all places betwene the kynges ſaied Fullyng milles at Cheſter, and theſaied toune of Corwyn, frankly, without let or impediment of a<g ref="char:EOLhyphen"/>ny perſone or perſones: and that the citezens of your citee of Cheſter, for the tyme beeyng, and all and euery other perſone and perſones, at their awne coſtes, maie and ſhall, from tyme to tyme, and at all tymes as of<g ref="char:EOLhyphen"/>ten as oportunitie and nede ſhall require, by their induſtrie and pollicie and by all the reaſonable waies and meanes thei can, clenſe, cutte, digge cary, and ca<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vpon the lande, to theſaied riuer adioynyng<g ref="char:punc">▪</g> all ſuche and euery ſande beddes, grauell ſtones, and rockes in theſaied riuer, whiche
+<pb n="xxxiiij" facs="tcp:25961:2"/>be, or ſhalbe preiudiciall, noyſome or hurtfull to the paſſage, repaſſage, and cariage vpon theſaied riuer, within the boundes aforeſaid. And al<g ref="char:EOLhyphen"/>ſo ſhall and maie, dooe and execute at all tymes; at their awne coſtes: all and euery reaſonable thyng and thynges, act and actes, whereby theſaid riuer maie be clenſed, or made deaper, and the ſtreame &amp; water therof, to haue a more higher, better, and directer courſe &amp; paſſage, doyng as litle hurte to the ſoyle and ground, whereupon thei ſhall caſt theſame, as thei reaſonably maie deuiſe. And that it maie be further enacted, and eſtabli<g ref="char:EOLhyphen"/>ſhed, by the aucthoritie aforeſaied, that if theſaied third part of theſaied water or riuer of Dee, be not ſufficient for ſuche cariage, paſſage, and re<g ref="char:EOLhyphen"/>paſſage, as is aforeſaied: that then the lorde Chauncellor of Englande, for the tyme beeyng, maie from tyme to tyme, vpon complaint to hym made, by ſuche partie as ſhalbe greued, directe the kynges Commiſſion vnder the greate ſeale of Englande, to ſixe Commiſſioners, wherof three to be of the counſaill of the marches of Wales, and the other three, to be of the honeſt inhabitauntes of theſaid citee of Cheſter, And that theſaid commiſſioners or fower of theim, whereof twoo to bee of theſaied coun<g ref="char:EOLhyphen"/>ſaill, ſhall haue full power and aucthoritie, by vertue of this ſaied act, at the coſtes of theſaied citizens, from tyme to tyme, to appoynct ſuche con<g ref="char:EOLhyphen"/>uenient waie and paſſage, vpon theſaied riuer, within theſaied boundes, and of ſuche wideneſſe and depth, ouer and beſides, theſaid third part of theſaied riuer of Dee, as to theim ſhall ſeme mete and conuenient. And that theſaied commiſſioners, or fower of theim, whereof twoo of theim to be of theſaied counſaill, ſhall haue full power and aucthoritie, by vertue of this preſent act, to appoynct a line waie, for menne to drawe vpward and douneward, boates, cogges, and other cariage, vpon theſaied riuer of Dee, within the boundes aforeſaid: theſaid drawers to go vpon ſuche ſide and ſides, of theſaied riuer, and in ſuche place &amp; places, and theſame line waie, to bee of ſuche wideneſſe or bredth, &amp; in ſuche maner and forme as theſaied Commiſſioners, or fower of them, whereof twoo of theim, to be of theſaied counſaill, by their diſcrecions ſhall appoynct, and thynke mete and conuenient, from tyme to tyme: and theſame line waie, or order to chaunge and redreſſe, and to appoynct ſome other lyne waie, or order thereof (if thei ſhall ſe cauſe) as to their diſcrecions ſhall ſeme mete and expedient: theſame line waie, to bee made at the coſtes of the citizens of Cheſter aforeſaied, for the tyme beeyng. And that all and euery perſone and perſones, ſhall permit and ſuffer, ſuche line waie, ſo appoyncted to be occupied, vſed, and excerciſed accordyngly, without let, interrupcion, or impediment, of any perſone or perſones, in ſuche maner and forme as is vſed vpon the riuer of Thamis, where the Weſterne Barges vſe to haue paſſage and repaſſage. And that euery perſone and perſones, ſhall permit and ſuffre, euery ſuche order and direccion, as ſhalbe ſo made by theſaied commiſſioners, or fower of them (whereof twoo of them to be of theſaied counſaill) to ſtande, remain, and take force, from tyme to tyme.
+<pb facs="tcp:25961:3"/>And that it maie be further enacted, by the aucthoritie aforeſaied, that if any perſone or perſones, after theſaied firſt daie of Aprill, and after pro<g ref="char:EOLhyphen"/>clamacion, made by theſaid commiſſioners, or .iiij. of them, in the foreſaid citee of Cheſter, thre market daies, after the makyng and appoynctyng, of their ſaied ordinaunces and diuiſes, to the appoyncted by this preſent act, will, or ſhall willyngly infringe, or breake any poynct, article, clauſe, prouiſion, or ordinaunce, conteined and ſpecified in this preſent act, or to bee made, ordeined or prouided, by aucthoritie of this preſent acte: that then euery perſone and perſones, ſo willyngly offe<g ref="char:cmbAbbrStroke">̄</g>dyng, after ſuche pro<g ref="char:EOLhyphen"/>clamacions, ſhall loſe and forfaict for euery tyme ſo offendyng, the ſome of one hundreth ſhillynges, wherof the one halfe to be to your maieſtie, your heires or ſucceſſours, and the other halfe to hym or theim, that will ſue for theſame by accion of debt, bil, plaint, or informacion in any court or courtes of record within your realme, in whiche ſute, no wager of law eſſoyn or protection, ſhalbe admitted ne allowed, and ſhall further abide ſuche puniſhement and correction, as by theſaied commiſſiones, or foure of them, ſhalbe thought and determined, to be mete and conuenient.</p>
+            <p>Prouided alwaie, and bee it further enacted, by thaucthoritie afore<g ref="char:EOLhyphen"/>ſaied, that theſaied third parte of the riuer of Dee, to bee left or made for paſſage, repaſſage, and cariage, as is beforeſaied, ſhalbe lefte, taken, and made, where, and in ſuche places, as any weares or milles, be now ſtan<g ref="char:EOLhyphen"/>dyng vpon theſaied riuer, within the boundes aforeſaied, on the farther ſide of theſaied ſtreame or riuer, from the dwellyng houſes or milles, of the owners and enhabiters of theſaied weares or milles.</p>
+            <p>Prouided alſo, and be it further enacted, by thaucthoritie aforeſaid, that all and euery ſuche perſone and perſones, as lawfully now haue a<g ref="char:EOLhyphen"/>ny weares, within theſaied riuer of Dee, ſhall, and maie, from tyme to tyme, ſet, hang, or laie, his or their nettes, in theſaied third part of theſaid riuer, where theſaied weares bee now ſtandyng. And that it ſhalbe law<g ref="char:EOLhyphen"/>full to all and euery ſuche perſone and perſones, as ſhall come with any boates, veſſelles, or other the thynges aboue mencioned, from tyme to tyme, and at all tymes, to louſe, vndoo, and vntie the one ende, of all and euery ſuche nettes and ropes, ſo as thei and euery of theim, maie haue their free paſſage, repaſſage, and cariage, vpon theſaied riuer of Dee, vp and doune theſaied riuer, without let, vexacion, or impechement, of any perſone or perſones, of, or for theſame: this act, or any other thyng therin conteined, to the contrary in any wiſe notwithſtandyng.</p>
+            <p>Prouided alwaies, and it is ordeined and enacted, by thaucthoritie aforeſaid, that no maner of mille, mille da<g ref="char:cmbAbbrStroke">̄</g>mes, weare, kedell, or fiſhe gar<g ref="char:EOLhyphen"/>thes, ſhalbe pulled doune, abated or deſtroyed, by vertue of this acte, be<g ref="char:EOLhyphen"/>fore that aſwell the kynges Maieſtie, as all and ſinguler perſones and perſon, whiche ſhall haue good and lawfull title or intereſt, in, or to ſuche milles, mille da<g ref="char:cmbAbbrStroke">̄</g>mes, weares, kedelles, and fiſhe garthes, or mille, weare kedell, or fiſhe garthe, as ſhalbe appoyneted to be pulled doune, abated
+<pb n="xxxv" facs="tcp:25961:3"/>or deſtroyed, by meane of this act, ſhalbe recompenſed by the inhabitau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tes of theſaid citee of Cheſter, or by the meanes of ſome of them for ſuche dammages and loſſe, as he or thei ſhall ſuſtein, by occaſion of pullyng doune, abatyng or deſtroiyng, of any milles, mille dammes, weares, ke<g ref="char:EOLhyphen"/>delles, and fiſhegarthes, or of any mille, mille damme, weare, kedell, or fiſhe garth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in ſuche maner and forme, as ſhalbe limited or aſſigned, by foure perſones or more, then beyng of the kynges counſaill, in the mar<g ref="char:EOLhyphen"/>ches of Wales, or in their default or negligence, by the lorde Chauncel<g ref="char:EOLhyphen"/>lor of Englande, or lorde keper of the greate ſeale of Englande, the lord Threaſaurer of Englande, the lorde great Maiſter, of the kynges moſte honourable houſhold, and the lorde keper of the kynges priuie Seale, for the tyme beyng, or two of them at the leaſt, wherof the lorde Chaun<g ref="char:EOLhyphen"/>cellor, or the lorde Threaſaurer to be one, or els euery perſone dampni<g ref="char:EOLhyphen"/>fied in that behalfe, to haue like accion and remedy, as he or thei might haue had, before the makyng of this act, any thyng aboue mencioned, to the contrary in any wiſe notwithſtandyng, theſaied recompence to bee made, to ſuche perſone and perſones, as ſhall haue iuſt title or intereſt in the thyng or thynges, that ſhalbee pulled doune, abated or deſtroyed, at the tyme theſame ſhalbe appoyncted ſo to be.</p>
+            <p>Prouided alſo, and it is ordeined and enacted, by the aucthoritie a<g ref="char:EOLhyphen"/>foreſaid, that all and ſinguler perſone and perſones, whiche at any tyme hereafter ſhall dampnifie, hurte, or hinder, any other perſon or perſones by occaſion of cuttyng doune, of any tree or trees, growyng vpon his or their grou<g ref="char:cmbAbbrStroke">̄</g>d, or of caſtyng, cariyng, or laiyng of any ſtones, prebles, gra<g ref="char:EOLhyphen"/>uell, or ſande, vpon the lande of any other, by meane of this acte ſhalbee bounden, by vertue of this act, to make ſuche reaſonable ame<g ref="char:cmbAbbrStroke">̄</g>des for theſame, as by foure or more of theſaid counſaill, and in their default or ne<g ref="char:EOLhyphen"/>gligence, by the Lordes aboue mencioned, or twoo of theim, whereof the lorde Chauncellor, or lorde Threaſaurer to be one. ſhalbe limited or aſ<g ref="char:EOLhyphen"/>ſigned to be made, and if default ſhalbe of makyng of ſuche amen<g ref="char:EOLhyphen"/>des, as ſo ſhalbee limited or aſſigned, that then euery perſone, dampnefied or hindered in that behalfe, ſhall haue like accio<g ref="char:cmbAbbrStroke">̄</g> and remedy for theſame, as he or thei might haue had, if this act had neuer been had or made, any thyng afore ſpecified, to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtandyng.</p>
+            <trailer>¶ God ſaue the Kyng.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>RICHARDVS GRAFTONVS, typographus Regius excudebat.</p>
+            <p>M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſe Martio.</p>
+            <p>Anno M.D.LI.</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
